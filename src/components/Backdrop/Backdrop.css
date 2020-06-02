@@ -6,12 +6,13 @@
     width: 100%;
     height: 100%;
     background-color: rgba(0,0,0,0.8);
-};
+}
 
-.BackdropOpen{
-  display: block;
-};
 
-.BackdropClosed{
-display: none;
+.BackdropOpen {
+    display: block;
+}
+
+.BackdropClosed {
+    display: none;
 }
